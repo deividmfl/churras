@@ -2,7 +2,7 @@
 
 > Web application to churras !
 
-> Demo: https://churras-deividmfl.netlify.com/
+> Demo: https://churras-deividmfl.netlify.com/ (login: any login, senha: any password)
 
 > Dependencies (Src/assets/grid) - https://github.com/deividmfl/bebe-styled
 
