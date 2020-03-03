@@ -4,6 +4,8 @@
 
 > Demo: https://churras-deividmfl.netlify.com/
 
+> Dependencies (Src/assets/grid) - https://github.com/deividmfl/bebe-styled
+
 ## Install
 
 ```sh
