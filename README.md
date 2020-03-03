@@ -2,6 +2,8 @@
 
 > Web application to churras !
 
+> Demo: https://churras-deividmfl.netlify.com/
+
 ## Install
 
 ```sh
